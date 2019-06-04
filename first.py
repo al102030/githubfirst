@@ -1,6 +1,10 @@
 print('Hello World!')
 
 print('Second check')
+a=1
+b=2
+if a<b:
+    print('hahah')
 
 print('third check')
 
